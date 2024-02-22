@@ -6,6 +6,7 @@ use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\DB;
 use App\Models\Artist;
 
+
 class ArtistSeeder extends Seeder{
     /**
      * Run the database seeds.
